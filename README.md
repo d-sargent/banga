@@ -19,6 +19,9 @@ As a design practitioner, David is interested in how creative practice can engag
 
 ## Changelog
 
+**December 2024. Version 0.110**
+* Redrawn bolder weight, now less heavy
+
 **December 2024. Version 0.100**
 * Initial upload of Roman weights
 * Google Fonts Vietnamese Character Set completed
