@@ -19,6 +19,10 @@ As a design practitioner, David is interested in how creative practice can engag
 
 ## Changelog
 
+**March 2026. Version 0.120**
+* Overall design tweaks, focus on diagonal design elements
+* Google Fonts Latin Plus Character Set completed
+
 **December 2024. Version 0.110**
 * Redrawn bolder weight, now less heavy
 
