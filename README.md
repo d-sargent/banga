@@ -17,7 +17,27 @@ He is Creative Director of [Liveworm](https://liveworm.com.au), a work-integrate
 
 As a design practitioner, David is interested in how creative practice can engage, communicate, and spark social change. His studio practice focuses on typography, expressive lettering, and disruptive augmented reality, with creative works exhibited in Australian and international galleries. He releases typefaces under the moniker [Bolt Cutter Type](https://boltcuttertype.com).
 
+## Contributors
+
+Additional design advice as part of the _Type Masters_ program was provided by:
+
+* [Troy Leinster](https://www.leinstertype.com/typemasters)
+
+Assistance with the italic styles provided by:
+
+* [Sebastian Carewe](https://www.sebastiancarewe.com) and his _Italify_ algorithm
+
+Automation of some tasks handled by:
+
+* [Kern On](https://kern-on.com) plugin by Tim Ahrens
+
 ## Changelog
+
+**May 2026. Version 0.200**
+* Google Fonts African Character Set completed
+* Google Fonts Pan African Character Set completed
+* Google Fonts Beyond Character Set completed
+* Italic styles now underway
 
 **March 2026. Version 0.120**
 * Overall design tweaks, focus on diagonal design elements
