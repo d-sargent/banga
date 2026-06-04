@@ -19,10 +19,11 @@ As a design practitioner, David is interested in how creative practice can engag
 
 ## Changelog
 
-**June 2026. Version 0.200**
+**May 2026. Version 0.200**
 * Google Fonts African Character Set completed
 * Google Fonts Pan African Character Set completed
 * Google Fonts Beyond Character Set completed
+* Italic styles now underway
 
 **March 2026. Version 0.120**
 * Overall design tweaks, focus on diagonal design elements
