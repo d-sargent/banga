@@ -23,10 +23,13 @@ Additional design advice as part of the _Type Masters_ program was provided by:
 
 * [Troy Leinster](https://www.leinstertype.com/typemasters)
 
-Automation of some tasks handled by the following:
+Assistance with the italic styles provided by:
+
+* [Sebastian Carewe](https://www.sebastiancarewe.com) and his _Italify_ algorithm
+
+Automation of some tasks handled by:
 
 * [Kern On](https://kern-on.com) plugin by Tim Ahrens
-* [Italify](https://www.sebastiancarewe.com) by Sebastian Carewe
 
 ## Changelog
 
