@@ -11,7 +11,7 @@ _Banga_ is a low contrast sans serif loosely based on the American Type Founders
 
 ## About the Designer
 
-David Sargent is an Australian designer and educator living and working on Jagera and Turrbal land. 
+[David Sargent](https//davidsargent.com.au) is an Australian designer and educator living and working on Jagera and Turrbal land. 
 
 He is Creative Director of [Liveworm](https://liveworm.com.au), a work-integrated learning incubator within the [Queensland College of Art & Design, Griffith University](https://www.griffith.edu.au/arts-education-law/queensland-college-art-design). Liveworm operates as a working design studio for students to engage with a broad range of ‘real world’ projects for not-for-profit, cultural, educational, and small to medium commercial clients. 
 
