@@ -5,9 +5,7 @@ _Banga_ is a low contrast sans serif loosely based on the American Type Founders
 
 ![Sample Image](documentation/BangaGitHubImagesV2-1.png)
 ![Sample Image](documentation/BangaGitHubImagesV2-2.png)
-![Sample Image](documentation/BangaGitHubImagesV2-3.png)
 ![Sample Image](documentation/BangaGitHubImagesV2-4.png)
-![Sample Image](documentation/BangaGitHubImagesV2-5.png)
 ![Sample Image](documentation/BangaGitHubImagesV2-6.png)
 
 
