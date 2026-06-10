@@ -31,7 +31,7 @@ Automation of some tasks handled by:
 
 * [Kern On](https://kern-on.com) plugin by Tim Ahrens
 
-Mosh pit images in promotional images by:
+Mosh pit photos used in promotional graphics taken by:
 
 * [Evgeniy Smersh](https://unsplash.com/@igrindphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
       
