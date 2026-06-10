@@ -3,10 +3,12 @@
 _Banga_ is a low contrast sans serif loosely based on the American Type Founders typeface [Gothic No. 10](https://archive.org/details/ATF1893ClevelandSpecimen/mode/2up) distributed by the Cleveland Type Foundry (1893, p111).
 
 
-![Sample Image](documentation/BangaGitHubSampleImage-1.png)
-![Sample Image](documentation/BangaGitHubSampleImage-4.png)
-![Sample Image](documentation/BangaGitHubSampleImage-2.png)
-![Sample Image](documentation/BangaGitHubSampleImage-3.png)
+![Sample Image](documentation/BangaGitHubImagesV2-1.png)
+![Sample Image](documentation/BangaGitHubImagesV2-2.png)
+![Sample Image](documentation/BangaGitHubImagesV2-3.png)
+![Sample Image](documentation/BangaGitHubImagesV2-4.png)
+![Sample Image](documentation/BangaGitHubImagesV2-5.png)
+![Sample Image](documentation/BangaGitHubImagesV2-6.png)
 
 
 ## About the Designer
