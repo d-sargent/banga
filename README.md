@@ -1,6 +1,6 @@
 # Banga
 
-_Banga_ is a low contrast sans serif loosely based on the American Type Founders typeface [Gothic No. 10](https://archive.org/details/ATF1893ClevelandSpecimen/mode/2up) distributed by the Cleveland Type Foundry (1893, p111).
+_Banga_ is a low contrast sans serif loosely based on the American Type Founders typeface [Gothic No. 10](https://archive.org/details/ATF1893ClevelandSpecimen/mode/2up) distributed by the Cleveland Type Foundry (1893, p111). _Banga_ features six weights with matching italic styles. It supports the full Google Fonts Latin Core, Plus, Vietnamese, African, Pan African, and Beyond Character Sets.
 
 
 ![Sample Image](documentation/BangaGitHubImagesV2-1.png)
