@@ -141187,15 +141187,15 @@ R = superiors;
 {
 color = 7;
 glyphname = space;
-lastChange = "2026-06-08 01:52:20 +0000";
+lastChange = "2026-06-12 01:28:01 +0000";
 layers = (
 {
 layerId = "A9EED669-7C58-48A5-820B-2329F31EDE9C";
-width = 250;
+width = 245;
 },
 {
 layerId = "B4C75F88-655D-485D-8998-9EA9ADCD3C4A";
-width = 300;
+width = 285;
 }
 );
 unicode = 32;
@@ -141209,15 +141209,15 @@ R = NoKerning;
 {
 color = 7;
 glyphname = nbspace;
-lastChange = "2026-06-08 01:52:18 +0000";
+lastChange = "2026-06-12 01:28:12 +0000";
 layers = (
 {
 layerId = "A9EED669-7C58-48A5-820B-2329F31EDE9C";
-width = 250;
+width = 245;
 },
 {
 layerId = "B4C75F88-655D-485D-8998-9EA9ADCD3C4A";
-width = 300;
+width = 285;
 }
 );
 metricWidth = space;

@@ -111464,15 +111464,15 @@ R = superiors;
 {
 color = 4;
 glyphname = space;
-lastChange = "2026-06-03 23:08:24 +0000";
+lastChange = "2026-06-12 01:28:29 +0000";
 layers = (
 {
 layerId = m01;
-width = 300;
+width = 285;
 },
 {
 layerId = "7F4E18E3-41A5-4521-AA8A-AE39B7B68B38";
-width = 250;
+width = 245;
 }
 );
 unicode = 32;
@@ -111486,15 +111486,15 @@ R = NoKerning;
 {
 color = 4;
 glyphname = nbspace;
-lastChange = "2026-06-03 23:08:24 +0000";
+lastChange = "2026-06-12 01:28:43 +0000";
 layers = (
 {
 layerId = m01;
-width = 300;
+width = 285;
 },
 {
 layerId = "7F4E18E3-41A5-4521-AA8A-AE39B7B68B38";
-width = 250;
+width = 245;
 }
 );
 metricWidth = space;
