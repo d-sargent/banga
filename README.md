@@ -41,6 +41,10 @@ Mosh pit photos used in promotional graphics taken by:
 
 ## Changelog
 
+**June 2026. Version 0.300**
+* Italic styles completed
+* Kerning added
+
 **May 2026. Version 0.200**
 * Google Fonts African Character Set completed
 * Google Fonts Pan African Character Set completed
