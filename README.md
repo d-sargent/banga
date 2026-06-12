@@ -8,6 +8,7 @@ The design and proportions are loosely based on the American Type Founders typef
 
 ![Sample Image](documentation/BangaGitHubImagesV2-1.png)
 ![Sample Image](documentation/BangaGitHubImagesV2-2.png)
+![Sample Image](documentation/BangaGitHubImagesV2-3.png)
 ![Sample Image](documentation/BangaGitHubImagesV2-4.png)
 ![Sample Image](documentation/BangaGitHubImagesV2-6.png)
 
