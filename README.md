@@ -43,27 +43,28 @@ Mosh pit photos used in promotional graphics taken by:
 
 ## Changelog
 
-**June 2026. Version 0.300**
+**June 2026. Version 0.310**
+* [Latin M](https://github.com/koeberlin/Latin-Character-Sets) Character Set completed
 * Italic styles completed
 * Kerning added
 
 **May 2026. Version 0.200**
-* Google Fonts African Character Set completed
-* Google Fonts Pan African Character Set completed
-* Google Fonts Beyond Character Set completed
+* [Google Fonts African](https://github.com/googlefonts/glyphsets) Character Set completed
+* [Google Fonts Pan African](https://github.com/googlefonts/glyphsets) Character Set completed
+* [Google Fonts Beyond](https://github.com/googlefonts/glyphsets) Character Set completed
 * Italic styles now underway
 
 **March 2026. Version 0.120**
 * Overall design tweaks, focus on diagonal design elements
-* Google Fonts Latin Plus Character Set completed
+* [Google Fonts Latin Plus](https://github.com/googlefonts/glyphsets) Character Set completed
 
 **December 2024. Version 0.110**
 * Redrawn bolder weight, now less heavy
 
 **December 2024. Version 0.100**
 * Initial upload of Roman weights
-* Google Fonts Vietnamese Character Set completed
-* Google Fonts Latin Core Character Set still in progress
+* [Google Fonts Vietnamese](https://github.com/googlefonts/glyphsets) Character Set completed
+* [Google Fonts Latin Core](https://github.com/googlefonts/glyphsets) Character Set still in progress
 
 ## License
 
