@@ -43,7 +43,8 @@ Mosh pit photos used in promotional graphics taken by:
 
 ## Changelog
 
-**June 2026. Version 0.300**
+**June 2026. Version 0.310**
+* [Latin M](https://github.com/koeberlin/Latin-Character-Sets) Character Set completed
 * Italic styles completed
 * Kerning added
 
