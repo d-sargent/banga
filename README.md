@@ -56,7 +56,7 @@ Mosh pit photos used in promotional graphics taken by:
 * Italic styles now underway
 
 **March 2026. Version 0.120**
-* Overall design tweaks, focus on diagonal design elements
+* Overall design tweaks, focus on diagonal 'lightening bolt' design elements
 * [Google Fonts Latin Plus](https://github.com/googlefonts/glyphsets) Character Set completed
 
 **December 2024. Version 0.110**
