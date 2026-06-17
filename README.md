@@ -47,6 +47,7 @@ Mosh pit photos used in promotional graphics taken by:
 * [Latin M](https://github.com/koeberlin/Latin-Character-Sets) Character Set completed
 * Italic styles completed
 * Kerning added
+* Submitted to [Google Fonts](https://github.com/google/fonts/issues/10622#issue-4645311615) for consideration
 
 **May 2026. Version 0.200**
 * [Google Fonts African](https://github.com/googlefonts/glyphsets) Character Set completed
