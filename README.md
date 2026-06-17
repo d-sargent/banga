@@ -1,6 +1,6 @@
 # Banga
 
-_Banga_ is a low-contrast geometric sans serif designed for everyday use. With unexpected design features like the lightning-inspired lowercase g, it balances corporate versatility with a rebellious edge, making it suitable for both professional and creative applications.
+_Banga_ is a low-contrast geometric sans serif designed for everyday use. With unexpected design features like the lightning-bolt-inspired lowercase g and tilde symbol, it balances corporate versatility with a rebellious edge, making it suitable for both professional and creative applications.
 
 Featuring six weights with matching italic styles, _Banga_ supports the full Google Fonts Latin Core, Plus, Vietnamese, African, Pan African, and Beyond Character Sets. It includes several Stylistic Sets for boring people.
 
