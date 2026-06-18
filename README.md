@@ -1,6 +1,6 @@
 # Banga
 
-_Banga_ is a low-contrast geometric sans serif designed for everyday use. With unexpected design features like the lightning-inspired lowercase g, it balances corporate versatility with a rebellious edge, making it suitable for both professional and creative applications.
+_Banga_ is a low-contrast geometric sans serif designed for everyday use. With unexpected design features like the lightning-bolt-inspired lowercase g and tilde symbol, it balances corporate versatility with a rebellious edge, making it suitable for both professional and creative applications.
 
 Featuring six weights with matching italic styles, _Banga_ supports the full Google Fonts Latin Core, Plus, Vietnamese, African, Pan African, and Beyond Character Sets. It includes several Stylistic Sets for boring people.
 
@@ -47,6 +47,7 @@ Mosh pit photos used in promotional graphics taken by:
 * [Latin M](https://github.com/koeberlin/Latin-Character-Sets) Character Set completed
 * Italic styles completed
 * Kerning added
+* Submitted to [Google Fonts](https://github.com/google/fonts/issues/10622#issue-4645311615) for consideration
 
 **May 2026. Version 0.200**
 * [Google Fonts African](https://github.com/googlefonts/glyphsets) Character Set completed
@@ -55,7 +56,7 @@ Mosh pit photos used in promotional graphics taken by:
 * Italic styles now underway
 
 **March 2026. Version 0.120**
-* Overall design tweaks, focus on diagonal design elements
+* Overall design tweaks, focus on diagonal 'lightening bolt' design elements
 * [Google Fonts Latin Plus](https://github.com/googlefonts/glyphsets) Character Set completed
 
 **December 2024. Version 0.110**
