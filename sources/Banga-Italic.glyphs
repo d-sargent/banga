@@ -13098,21 +13098,17 @@ unicode = 398;
 glyphname = Schwa;
 kernLeft = KO_O;
 kernRight = KO_D;
-lastChange = "2026-06-14 22:48:42 +0000";
+lastChange = "2026-06-22 03:36:26 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (312,188);
-},
-{
-name = ogonekabove;
-pos = (225,735);
+pos = (396,0);
 },
 {
 name = top;
-pos = (398,760);
+pos = (503,760);
 }
 );
 background = {
@@ -13266,15 +13262,11 @@ width = 871;
 anchors = (
 {
 name = bottom;
-pos = (323,210);
-},
-{
-name = ogonekabove;
-pos = (234,721);
+pos = (395,0);
 },
 {
 name = top;
-pos = (400,760);
+pos = (502,760);
 }
 );
 background = {
@@ -19753,9 +19745,19 @@ unicode = 302;
 {
 glyphname = "Iota-latin";
 kernLeft = KO_N;
-lastChange = "2026-06-14 22:48:42 +0000";
+lastChange = "2026-06-22 04:22:43 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (157,0);
+},
+{
+name = top;
+pos = (226,760);
+}
+);
 background = {
 shapes = (
 {
@@ -19800,6 +19802,16 @@ nodes = (
 width = 394;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (137,0);
+},
+{
+name = top;
+pos = (202,760);
+}
+);
 background = {
 shapes = (
 {
@@ -30240,9 +30252,19 @@ unicode = 556;
 glyphname = OE;
 kernLeft = KO_O;
 kernRight = KO_E;
-lastChange = "2026-06-14 22:48:42 +0000";
+lastChange = "2026-06-22 03:33:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (516,0);
+},
+{
+name = top;
+pos = (623,760);
+}
+);
 background = {
 shapes = (
 {
@@ -30465,6 +30487,16 @@ nodes = (
 width = 1111;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (510,0);
+},
+{
+name = top;
+pos = (617,760);
+}
+);
 background = {
 shapes = (
 {
@@ -41346,9 +41378,19 @@ unicode = 7806;
 {
 glyphname = Vhook;
 kernLeft = KO_N;
-lastChange = "2026-06-14 22:48:42 +0000";
+lastChange = "2026-06-22 04:24:00 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (356,0);
+},
+{
+name = top;
+pos = (463,760);
+}
+);
 background = {
 shapes = (
 {
@@ -41417,6 +41459,16 @@ nodes = (
 width = 791;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (337,0);
+},
+{
+name = top;
+pos = (444,760);
+}
+);
 background = {
 shapes = (
 {
@@ -81443,9 +81495,19 @@ unicode = 303;
 },
 {
 glyphname = "iota-latin";
-lastChange = "2026-06-14 22:48:42 +0000";
+lastChange = "2026-06-22 04:22:54 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (125,0);
+},
+{
+name = top;
+pos = (174,572);
+}
+);
 background = {
 shapes = (
 {
@@ -81490,6 +81552,16 @@ nodes = (
 width = 329;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (87,0);
+},
+{
+name = top;
+pos = (139,550);
+}
+);
 background = {
 shapes = (
 {
@@ -93343,9 +93415,19 @@ unicode = 547;
 glyphname = oe;
 kernLeft = KO_e;
 kernRight = KO_e;
-lastChange = "2026-06-14 22:48:42 +0000";
+lastChange = "2026-06-22 03:33:25 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (507,0);
+},
+{
+name = top;
+pos = (587,572);
+}
+);
 background = {
 shapes = (
 {
@@ -93726,6 +93808,16 @@ nodes = (
 width = 1107;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (529,0);
+},
+{
+name = top;
+pos = (607,550);
+}
+);
 background = {
 shapes = (
 {
@@ -106042,9 +106134,19 @@ unicode = 7807;
 {
 glyphname = vhook;
 kernLeft = KO_n;
-lastChange = "2026-06-14 22:48:42 +0000";
+lastChange = "2026-06-22 04:23:58 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (285,0);
+},
+{
+name = top;
+pos = (365,572);
+}
+);
 background = {
 shapes = (
 {
@@ -106113,6 +106215,16 @@ nodes = (
 width = 650;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (246,0);
+},
+{
+name = top;
+pos = (324,550);
+}
+);
 background = {
 shapes = (
 {
