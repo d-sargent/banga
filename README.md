@@ -12,6 +12,7 @@ The design and proportions are loosely based on the American Type Founders typef
 ![Sample Image](documentation/BangaGitHubImagesV2-4.png)
 ![Sample Image](documentation/BangaGitHubImagesV2-5.png)
 ![Sample Image](documentation/BangaGitHubImagesV2-6.png)
+![Sample Image](documentation/BangaGitHubImagesV2-7.png)
 
 
 ## About the Designer
