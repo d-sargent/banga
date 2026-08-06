@@ -1,8 +1,9 @@
 {
-.appVersion = "3436";
+.appVersion = "4003";
 .formatVersion = 3;
 DisplayStrings = (
-"‽"
+"‽",
+"ŉnńŉńŉŉln"
 );
 axes = (
 {
@@ -69281,27 +69282,37 @@ unicode = 324;
 },
 {
 glyphname = napostrophe;
-lastChange = "2026-06-14 22:20:33 +0000";
+lastChange = "2026-08-06 05:58:27 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (533,0);
-ref = apostrophemod;
+closed = 1;
+nodes = (
+(597,566,l),
+(674,760,l),
+(606,760,l),
+(563,566,l)
+);
 },
 {
 ref = n;
 }
 );
-width = 669;
+width = 699;
 },
 {
 layerId = "7F4E18E3-41A5-4521-AA8A-AE39B7B68B38";
 shapes = (
 {
-pos = (596,0);
-ref = apostrophemod;
+closed = 1;
+nodes = (
+(715,496,l),
+(823,760,l),
+(675,760,l),
+(628,496,l)
+);
 },
 {
 ref = n;
