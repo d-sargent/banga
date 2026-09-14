@@ -1,9 +1,6 @@
 {
 .appVersion = "4003";
 .formatVersion = 3;
-DisplayStrings = (
-"ŉŉ"
-);
 axes = (
 {
 name = Weight;
@@ -141810,7 +141807,7 @@ L = parenthesis;
 glyphname = period;
 kernLeft = KO_period;
 kernRight = KO_period;
-lastChange = "2026-06-14 22:48:42 +0000";
+lastChange = "2026-08-06 06:03:37 +0000";
 layers = (
 {
 background = {
