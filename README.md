@@ -2,7 +2,7 @@
 
 _Banga_ is a low-contrast geometric sans serif designed for everyday use. With unexpected design features like the lightning-bolt-inspired lowercase g and tilde symbol, it balances corporate versatility with a rebellious edge, making it suitable for both professional and creative applications.
 
-Featuring six weights with matching italic styles, _Banga_ supports the full Google Fonts Latin Core, Plus, Vietnamese, African, Pan African, and Beyond Character Sets. It includes several Stylistic Sets for boring people.
+Featuring six weights with matching italic styles, _Banga_ supports the full Google Fonts Latin Core, Plus, Vietnamese, African, Pan African, and Beyond Character Sets. It additionally supports all Indigenous Australian languages and includes several Stylistic Sets for boring people.
 
 The design and proportions are loosely based on the American Type Founders typeface [Gothic No. 10](https://archive.org/details/ATF1893ClevelandSpecimen/mode/2up) distributed by the Cleveland Type Foundry (1893, p111). 
 
