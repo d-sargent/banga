@@ -1,14 +1,10 @@
 {
-.appVersion = "4003";
+.appVersion = "4108";
 .formatVersion = 3;
 axes = (
 {
 name = Weight;
 tag = wght;
-},
-{
-name = Italic;
-tag = ital;
 }
 );
 classes = (
@@ -579,8 +575,7 @@ tag = ss04;
 fontMaster = (
 {
 axesValues = (
-200,
-1
+200
 );
 customParameters = (
 {
@@ -706,8 +701,7 @@ KernOnModels = (
 },
 {
 axesValues = (
-800,
-1
+800
 );
 customParameters = (
 {
@@ -60902,8 +60896,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -61114,8 +61106,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -67867,8 +67857,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -68007,8 +67995,6 @@ attr = {
 axisRules = (
 {
 max = 600;
-},
-{
 }
 );
 };
@@ -79798,8 +79784,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -79871,8 +79855,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -143693,8 +143675,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -143901,8 +143881,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -160438,8 +160416,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -160672,8 +160648,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -160895,8 +160869,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -161090,8 +161062,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -164827,8 +164797,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -165473,8 +165441,6 @@ attr = {
 axisRules = (
 {
 min = 600;
-},
-{
 }
 );
 };
@@ -204149,8 +204115,7 @@ width = 391;
 instances = (
 {
 axesValues = (
-200,
-8
+200
 );
 instanceInterpolations = {
 "B4C75F88-655D-485D-8998-9EA9ADCD3C4A" = 1;
@@ -204160,8 +204125,7 @@ weightClass = 200;
 },
 {
 axesValues = (
-280,
-8
+280
 );
 instanceInterpolations = {
 "A9EED669-7C58-48A5-820B-2329F31EDE9C" = 0.13333;
@@ -204172,8 +204136,7 @@ weightClass = 300;
 },
 {
 axesValues = (
-400,
-8
+400
 );
 instanceInterpolations = {
 "A9EED669-7C58-48A5-820B-2329F31EDE9C" = 0.33333;
@@ -204185,8 +204148,7 @@ name = "Regular Italic";
 },
 {
 axesValues = (
-550,
-8
+550
 );
 instanceInterpolations = {
 "A9EED669-7C58-48A5-820B-2329F31EDE9C" = 0.58333;
@@ -204197,8 +204159,7 @@ weightClass = 600;
 },
 {
 axesValues = (
-710,
-8
+710
 );
 instanceInterpolations = {
 "A9EED669-7C58-48A5-820B-2329F31EDE9C" = 0.85;
@@ -204211,8 +204172,7 @@ weightClass = 700;
 },
 {
 axesValues = (
-800,
-8
+800
 );
 instanceInterpolations = {
 "A9EED669-7C58-48A5-820B-2329F31EDE9C" = 1;
