@@ -27,13 +27,13 @@ familyName: "Banga"
 # determine which targets to build. We turn off OTFs for this demo.
 
 # buildVariable: true
-# buildStatic: true
-# buildTTF: true
+buildStatic: true
+buildTTF: true
 buildOTF: false
 # buildSmallCap: false
 
 # The next flags control autohinting.
-# autohintTTF: true
+autohintTTF: true
 # autohintOTF: false
 # ttfaUseScript: false  # Set this to true if your font is not Latin
 
