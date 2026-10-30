@@ -7,8 +7,8 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - banga.glyphs
-  - banga-italic.glyphs
+  - Banga.glyphs
+  - Banga-Italic.glyphs
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
 familyName: "Banga"
