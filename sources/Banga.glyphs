@@ -591,11 +591,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 980;
+value = 1115;
 },
 {
 name = typoDescender;
-value = 220;
+value = -370;
 },
 {
 name = typoLineGap;
@@ -603,11 +603,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 980;
+value = 1115;
 },
 {
 name = hheaDescender;
-value = 220;
+value = -370;
 },
 {
 name = hheaLineGap;
@@ -615,11 +615,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1048;
+value = 1115;
 },
 {
 name = winDescent;
-value = 256;
+value = 370;
 }
 );
 guides = (
@@ -733,11 +733,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 980;
+value = 1115;
 },
 {
 name = typoDescender;
-value = 220;
+value = -370;
 },
 {
 name = typoLineGap;
@@ -745,11 +745,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 980;
+value = 1115;
 },
 {
 name = hheaDescender;
-value = 220;
+value = -370;
 },
 {
 name = hheaLineGap;
@@ -757,11 +757,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1111.3;
+value = 1115;
 },
 {
 name = winDescent;
-value = 291;
+value = 370;
 }
 );
 guides = (
