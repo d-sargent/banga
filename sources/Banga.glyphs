@@ -173410,6 +173410,6 @@ KernOnKerningWeightLimit = 36000;
 KernOnRegenerateGroups = 1;
 KernOnVersion = "1.37";
 };
-versionMajor = 0;
-versionMinor = 310;
+versionMajor = 1;
+versionMinor = 0;
 }
