@@ -45,7 +45,7 @@ Mosh pit photos used in promotional graphics taken by:
 ## Changelog
 
 **November 2026. Version 1.000**
-* Final adjustments in preperation for Google Fonts onboarding
+* Final adjustments in preparation for Google Fonts onboarding
 
 **June 2026. Version 0.310**
 * [Latin M](https://github.com/koeberlin/Latin-Character-Sets) Character Set completed
