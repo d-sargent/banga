@@ -1,6 +1,9 @@
 {
-.appVersion = "4108";
+.appVersion = "3532";
 .formatVersion = 3;
+DisplayStrings = (
+Banga
+);
 axes = (
 {
 name = Weight;
@@ -223472,9 +223475,12 @@ oV = "52";
 tH = "45";
 };
 };
-KernOnKerningWeightLimit = 36000;
-KernOnRegenerateGroups = 1;
+GSDontShowVersionAlert = 1;
+KernOn = {
 KernOnVersion = "1.37";
+kerningWeightLimit = 36;
+regenerateGroups = 1;
+};
 };
 versionMajor = 1;
 versionMinor = 0;
